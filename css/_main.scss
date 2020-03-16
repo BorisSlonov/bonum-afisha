@@ -20,11 +20,6 @@
 
 //size and align
 
-.container-100 {
-    flex-basis: 100%;
-    width: 100%;
-}
-
 .container-60 {
     flex-basis: 60%;
 }
@@ -172,8 +167,92 @@ a[class*=bg-] {
     }
 }
 
-.bg-romeo {
-    background-image: url(../img/main/romeo.png);
+.bg-program {
+    background-image: url(../img/main/program.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.bg-heaven {
+    background-image: url(../img/main/heaven.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 15%;
+}
+
+.bg-wine {
+    background-image: url(../img/main/wine.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 5%;
+}
+
+.bg-health {
+    background-image: url(../img/main/health.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-sport {
+    background-image: url(../img/main/sport.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-guest {
+    background-image: url(../img/main/guest.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-world {
+    background-image: url(../img/main/world.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-news {
+    background-image: url(../img/main/news.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-rams {
+    background-image: url(../img/main/rams.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-show {
+    background-image: url(../img/main/show.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-depeche {
+    background-image: url(../img/main/depeche.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-abba {
+    background-image: url(../img/main/abba.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.bg-afisha {
+    background-image: url(../img/main/afisha.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0%;
@@ -209,13 +288,6 @@ a[class*=bg-] {
 
 .bg-cinema {
     background-image: url(../img/main/spain.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 0%;
-}
-
-.bg-anna {
-    background-image: url(../img/main/anna.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0%;
